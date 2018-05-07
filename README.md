@@ -15,7 +15,7 @@ start_oasys.sh      : starts Oasys using the virtual environment installation
 
 Oasys info at: https://www.elettra.trieste.it/oasys.html
 
-##Installation Instruction added by Hongjie, May 2018
+## Installation Instruction added by Hongjie, May 2018
 
 step1:
 run ./Release 1.0/prepare_installation.sh
